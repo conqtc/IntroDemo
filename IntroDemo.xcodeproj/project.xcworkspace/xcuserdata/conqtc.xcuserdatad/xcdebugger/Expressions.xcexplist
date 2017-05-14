@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PageViewCell.startPageView() -&gt; ():PageViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentPage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "IntroViewController.endIntro(UIButton) -&gt; ():IntroViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pageController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PageViewCell.awakeFromNib() -&gt; ():PageViewCell.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
